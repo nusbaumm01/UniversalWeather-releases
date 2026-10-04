@@ -1,0 +1,16 @@
+{
+  "_comment": "Update manifest. Installed copies of Universal Weather read this to learn whether a newer build exists. Written by the Installers workflow; keep the shape stable.",
+  "version": "v0.1.0",
+  "notes": "First release of Universal Weather: NOAA weather for Mac and Windows.",
+  "published": "2026-10-04T16:07:12Z",
+  "mac": {
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.1.0/UniversalWeather-0.1.0-mac.dmg",
+    "sha256": "c229ebbd5463a9b9c5f4db2a430f318bf7aed0a76953fb0ebe780ce5e098175d",
+    "size": 229225090
+  },
+  "windows": {
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.1.0/UniversalWeather-0.1.0-windows-setup.exe",
+    "sha256": "263609318561ea472db9402bbe684e35307da7746a8c105ab028dae97c7a9ebb",
+    "size": 110598850
+  }
+}
