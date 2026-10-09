@@ -1,16 +1,16 @@
 {
   "_comment": "Update manifest. Installed copies of Universal Weather read this to learn whether a newer build exists. Written by the Installers workflow; keep the shape stable.",
-  "version": "v0.2.0",
-  "notes": "Saved places: star a location and switch between places from the Places menu. Right Now adds today's high and low, the next rain, daylight and the moon. Compare with yesterday. New settings for wind units, a 24-hour clock and new-alert notifications. Radar zoom: Local, Regional and National.",
-  "published": "2026-10-05T15:56:05Z",
+  "version": "v0.2.1",
+  "notes": "The hourly chart now shows each hour's weather as an icon along the top.",
+  "published": "2026-10-09T16:46:45Z",
   "mac": {
-    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.0/UniversalWeather-0.2.0-mac.dmg",
-    "sha256": "8f3ff1721005a0ac943652f94545b12c1284ac1c3b3a49f7226a4020d54d91f5",
-    "size": 229256526
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.1/UniversalWeather-0.2.1-mac.dmg",
+    "sha256": "30e732736a224fea1c7d311c821cf303faa4524f3b1d0657b80f02b7edd6f50b",
+    "size": 229257167
   },
   "windows": {
-    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.0/UniversalWeather-0.2.0-windows-setup.exe",
-    "sha256": "2d210d403ee62df72b6ab89278ecf6d1b23f2e7dd16671eed82315f86a794012",
-    "size": 110611855
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.1/UniversalWeather-0.2.1-windows-setup.exe",
+    "sha256": "fe91cf7b4170ed6f67209794036863d9379c64f243a4a9fea364573c4a06ed63",
+    "size": 110612254
   }
 }
