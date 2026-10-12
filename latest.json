@@ -1,16 +1,16 @@
 {
   "_comment": "Update manifest. Installed copies of Universal Weather read this to learn whether a newer build exists. Written by the Installers workflow; keep the shape stable.",
-  "version": "v0.2.1",
-  "notes": "The hourly chart now shows each hour's weather as an icon along the top.",
-  "published": "2026-10-09T16:46:45Z",
+  "version": "v0.3.0",
+  "notes": "Universal Weather 0.3.0\n- Temperature in the Mac menu bar / Windows system tray\n- Hourly chart: wind and gusts, snowfall, cloud cover, humidity\n- Hazardous Weather Outlook under the alerts\n- Compact always-on-top mini window (Ctrl+Shift+M / ⇧⌘M)\n- Last forecast shown when NOAA can't be reached",
+  "published": "2026-10-12T13:37:37Z",
   "mac": {
-    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.1/UniversalWeather-0.2.1-mac.dmg",
-    "sha256": "30e732736a224fea1c7d311c821cf303faa4524f3b1d0657b80f02b7edd6f50b",
-    "size": 229257167
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.3.0/UniversalWeather-0.3.0-mac.dmg",
+    "sha256": "e05084833c429acbabbdccfb0c7814c5b2da86f1f40f049ce4e85978c61801dd",
+    "size": 229281780
   },
   "windows": {
-    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.2.1/UniversalWeather-0.2.1-windows-setup.exe",
-    "sha256": "fe91cf7b4170ed6f67209794036863d9379c64f243a4a9fea364573c4a06ed63",
-    "size": 110612254
+    "url": "https://github.com/nusbaumm01/UniversalWeather-releases/releases/download/v0.3.0/UniversalWeather-0.3.0-windows-setup.exe",
+    "sha256": "ed38cfc31bd802fe62ac8992810de68b4aa02bdc1fa4bd0be569535efb370538",
+    "size": 110629920
   }
 }
